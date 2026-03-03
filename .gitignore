@@ -1,0 +1,8 @@
+/data
+word2id.json
+embeddings_V.npy
+embeddings_U.npy
+.idea/
+__pycache__/
+*.pyc
+embeddings_*.npy
